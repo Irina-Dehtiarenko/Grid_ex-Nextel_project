@@ -25,13 +25,23 @@ Users should be able to:
 
 ### Screenshot
 
+Header - desktop:
+
 ![Screenshot Desktop View - Header](./img/desktop-1.JPG)
+
+Gallery - desktop:
 
 ![Screenshot Desktop View - Gallery](./img/desktop-2-gallery.JPG)
 
+Header - mobile:
+
 ![Screenshot Mobile View - Header](./img/mobile-1-header.jpg)
 
+Stories section - mobile:
+
 ![Screenshot Mobile View - Section about customers' Story](./img/mobile-2-story.jpg)
+
+Homes' section - mobile:
 
 ![Screenshot Mobile View - Section with homes example](./img/mobile-3-homes.jpg)
 
